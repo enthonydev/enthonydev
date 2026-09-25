@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Enthony 👋</h1>
+<h1 align="center">Olá, eu sou o Enthony </h1>
 
 <p align="center">
 Estudante de Ciência da Computação na UNIP, construindo uma carreira em desenvolvimento de software.<br/>
@@ -41,7 +41,7 @@ Simulador de financiamento imobiliário — compara os sistemas Price e SAC, apl
 **[REST-Event-Management-API](https://github.com/enthonydev/REST-Event-Management-API)**
 API REST para gestão de eventos, ingressos, produtos e pedidos — construída com o método Learn-Try. TypeScript, Express, validação com Zod, autenticação JWT, testes com Vitest e documentação OpenAPI. O README inclui os aprendizados reais do processo, erros incluídos.
 
-**[Estação Meteorológica Inteligente (ESP32)](https://github.com/enthonydev/PROJETO-ESTACAO-METEOROLOGICA)** 🚧 *em desenvolvimento*
+**[Estação Meteorológica Inteligente (ESP32)](https://github.com/enthonydev/PROJETO-ESTACAO-METEOROLOGICA)**  *em desenvolvimento*
 Projeto acadêmico de monitoramento ambiental: ESP32 + MicroPython → MQTT → backend em FastAPI (Python) → PostgreSQL → dashboard web. Sprints 1 a 4 já consolidadas — backend com testes automatizados e CI, contrato de telemetria versionado, modelo de dados e migration para PostgreSQL, e estrutura inicial do firmware. Ingestão MQTT real, dashboard funcional e integração com o hardware físico são as próximas etapas.
 
 ###  Contato
