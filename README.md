@@ -6,7 +6,7 @@ Foco atual: <b>backend com Node.js, TypeScript e Express</b> — aplicando IA (C
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/enthony"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/enthony"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -41,9 +41,9 @@ Simulador de financiamento imobiliário — compara os sistemas Price e SAC, apl
 **[REST-Event-Management-API](https://github.com/enthonydev/REST-Event-Management-API)**
 API REST para gestão de eventos, ingressos, produtos e pedidos — construída com o método Learn-Try. TypeScript, Express, validação com Zod, autenticação JWT, testes com Vitest e documentação OpenAPI. O README inclui os aprendizados reais do processo, erros incluídos.
 
-**[Estação Meteorológica Inteligente (ESP32)](https://github.com/enthonydev/PROJETO-ESTACAO-METEOROLOGICA)** 🚧 *em planejamento*
-Projeto de estação meteorológica urbana: ESP32 + MicroPython → MQTT → backend em FastAPI (Python) → PostgreSQL → dashboard web. Está na etapa de especificação e baseline de arquitetura (contrato de telemetria já versionado, documentação de arquitetura definida) — implementação começa nas próximas sprints.
+**[Estação Meteorológica Inteligente (ESP32)](https://github.com/enthonydev/PROJETO-ESTACAO-METEOROLOGICA)** 🚧 *em desenvolvimento*
+Projeto acadêmico de monitoramento ambiental: ESP32 + MicroPython → MQTT → backend em FastAPI (Python) → PostgreSQL → dashboard web. Sprints 1 a 4 já consolidadas — backend com testes automatizados e CI, contrato de telemetria versionado, modelo de dados e migration para PostgreSQL, e estrutura inicial do firmware. Ingestão MQTT real, dashboard funcional e integração com o hardware físico são as próximas etapas.
 
 ### 📫 Contato
 
-[LinkedIn](https://linkedin.com/in/enthony) · São Paulo, Brasil
+[LinkedIn](https://www.linkedin.com/in/enthony) · São Paulo, Brasil
