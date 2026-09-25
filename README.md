@@ -11,13 +11,13 @@ Foco atual: <b>backend com Node.js, TypeScript e Express</b> — aplicando IA (C
 
 ---
 
-### 🧭 Sobre
+###  Sobre
 
 Antes de migrar pra tecnologia, construí experiência em atendimento ao cliente, resolução de problemas e rotinas administrativas — incluindo suporte técnico de TI (cadastro/gerenciamento de usuários em sistemas, hardware). Essa vivência virou base pra como trabalho hoje: comunicação clara, organização e foco em resolver o problema de verdade antes de sair escrevendo código.
 
 Atualmente busco oportunidades como **Desenvolvedor Júnior** ou **Estágio em TI**.
 
-### 🛠️ Stack
+###  Stack
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
@@ -33,7 +33,7 @@ Atualmente busco oportunidades como **Desenvolvedor Júnior** ou **Estágio em T
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 </p>
 
-### 🚀 Projetos em destaque
+###  Projetos em destaque
 
 **[REAL-BALANCE-ROOM (RBR)](https://github.com/enthonydev/REAL-BALANCE-ROOM-rbr.)**
 Simulador de financiamento imobiliário — compara os sistemas Price e SAC, aplica amortizações extraordinárias e mostra o impacto no prazo, na parcela e nos juros. Frontend em React + Vite + TypeScript, backend em Express + TypeScript, testes automatizados e CI configurado.
@@ -44,6 +44,6 @@ API REST para gestão de eventos, ingressos, produtos e pedidos — construída 
 **[Estação Meteorológica Inteligente (ESP32)](https://github.com/enthonydev/PROJETO-ESTACAO-METEOROLOGICA)** 🚧 *em desenvolvimento*
 Projeto acadêmico de monitoramento ambiental: ESP32 + MicroPython → MQTT → backend em FastAPI (Python) → PostgreSQL → dashboard web. Sprints 1 a 4 já consolidadas — backend com testes automatizados e CI, contrato de telemetria versionado, modelo de dados e migration para PostgreSQL, e estrutura inicial do firmware. Ingestão MQTT real, dashboard funcional e integração com o hardware físico são as próximas etapas.
 
-### 📫 Contato
+###  Contato
 
 [LinkedIn](https://www.linkedin.com/in/enthony) · São Paulo, Brasil
